@@ -1,0 +1,37 @@
+[{
+    "Radius": 200,
+    "CenterPoint": "600,600",
+    "Color": "#FF0000",
+    "InnerCircles": [
+        {
+            "Radius": 30,
+            "CenterPoint": "440.6298607984849,370.837555020208",
+            "Color": "#00FF00"
+        },
+        {
+            "Radius": 80,
+            "CenterPoint": "449.634678061996,293.73527411203",
+            "Color": "#0000FF"
+        },
+        {
+            "Radius": 30,
+            "CenterPoint": "595.304000498688,323.862740014441",
+            "Color": "#FFFF00"
+        },
+        {
+            "Radius": 60,
+            "CenterPoint": "130,120.821615031769",
+            "Color": "#FF00FF"
+        },
+        {
+            "Radius": 80,
+            "CenterPoint": "139.434486700348,117.321772498849",
+            "Color": "#000000"
+        },
+            {
+            "Radius": 40,
+            "CenterPoint": "90.0650116042269,117.955542640959",
+            "Color": "#00FFFF"
+        },
+    ]
+}]
